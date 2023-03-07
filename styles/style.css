@@ -1,0 +1,76 @@
+a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      .no-style {
+        text-decoration: none ;
+        color: inherit ;
+      }
+      @media screen and (max-width: 500px) {
+        #mainImage {
+          width: 100% !important;
+          height: auto !important;
+        }
+        .full-width-table {
+          width: 95% !important;
+        }
+        .claim-code {
+          font-size: 11px;
+        }
+        #footLogo {
+          width: 75px;
+        }
+      }
+
+
+
+#email {
+  border-radius: 3px;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #555;
+}
+
+#submit-btn {
+display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #ff9900;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;  
+  background-color: #ff8000;  
+}
+
+
+
+
+
+.nav-a-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;  
+}
+
+
+.submit {
+  font-size: 20px;
+  width: 300px;
+  height: 55px;  
+border: 1px solid #909090;  
+background-color:#F1C75D;  
+padding: 10px 24px;  
+border-radius: 3px;
+  display: block;
+  margin: 0 auto;
+  
+}
